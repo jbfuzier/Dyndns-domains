@@ -811,12 +811,12 @@ dynamip.com
 dynathome.net
 DynDNS.berlin
 dyndns.biz
-dyndns.biz#from http://free.domain.name/en.html?domain=homeip.net
+dyndns.biz
 dyndns.dk
 dyndns.info
-dyndns.info#from http://free.domain.name/en.html?domain=homeip.net
+dyndns.info
 dyndns.org
-dyndns.org#from http://free.domain.name/en.html?domain=homeip.net
+dyndns.org
 dyndns.pro
 dyndns.tv
 dyndns.ws
@@ -2553,7 +2553,7 @@ servemp3.com
 servep2p.com
 servepics.com
 servequake.com
-servequake.com#
+servequake.com
 servercide.com
 servernux.com
 serverpit.com
@@ -3142,7 +3142,7 @@ yoogle.info
 yooko.com.ru
 yorto.ru
 youdontcare.com
-youdontcare.com#from http://blog.dynamoo.com/
+youdontcare.com
 youhei.jp
 youpc.ro
 yourspecialtee.com
